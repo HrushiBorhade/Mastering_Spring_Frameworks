@@ -1,0 +1,15 @@
+Understanding the Goal of Spring-Boot
+
+-> Help you build Production-Ready apps Quickly
+
+BUILD QUICKLY
+	- Spring Initializer
+	- Spring Boot Starter Projects
+	- Spring Boot Auto Configuration
+	- Spring Boot DevTools
+
+BE PRODUCTION-READY
+	- Logging
+	- Different Configurations for Different Environments
+		- Profiles, Configuration Properties
+	- Monitoring (Spring Boot Actuator)
